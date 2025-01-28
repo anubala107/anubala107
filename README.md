@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Anu Bala, a highly skilled and versatile Full Stack Developer with over 13 years of experience in crafting robust and scalable web applications. My expertise spans across a broad range of technologies and tools, enabling me to deliver end-to-end solutions that meet the highest standards of quality and performance.
+Hello! I'm Anu Bala, a highly skilled and versatile Full Stack Developer with over 14 years of experience in crafting robust and scalable web applications. My expertise spans across a broad range of technologies and tools, enabling me to deliver end-to-end solutions that meet the highest standards of quality and performance.
 
 
 ## 🌐 Socials:
